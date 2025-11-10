@@ -1,60 +1,43 @@
-🧳 Vacation Pack – React Travel Packing List App
+# 🧳 Vacation Pack – React Travel Packing List App
 
-Vacation Pack is a simple and colorful travel packing list app built using React.
-It helps you keep track of everything you need for your trip — easily add items, mark them as packed, sort your list, or clear it entirely before your next adventure.
+**Vacation Pack** is a simple and colorful **React** travel packing list app that helps you organize everything you need for your trip.  
+Add items, mark them as packed, sort your list, or clear it entirely — all in one clean, responsive interface.
 
-✨ Features
+👉 **Live Demo:** [travel-list-flame-nu.vercel.app](https://travel-list-flame-nu.vercel.app)
 
-➕ Add Items – Quickly add what you need for your trip.
+---
 
-✅ Check / Uncheck – Click on an item to mark it as packed or unpacked.
+## ✨ Features
 
-🔤 Sorting Options – Sort your list by input order, description, or packed status.
+### ➕ Add Items  
+Quickly add what you need for your trip.  
 
-🧹 Clear List – Remove all items with a single click.
+### ✅ Check / Uncheck  
+Click any item to mark it as packed or unpacked.  
 
-🎨 Fully Frontend – Built with React and CSS only — no backend or database.
+### 🔤 Sort List  
+Sort items by input order, description, or packed status.  
 
-🛠️ Tech Stack
+### 🧹 Clear List  
+Remove all items with a single click.  
 
-React.js
+### 🎨 Frontend Only  
+Built using **React** and **CSS** — no backend or database.
 
-HTML5
+---
 
-CSS3
+## 🛠️ Tech Stack
+- **React.js**  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**
 
-JavaScript (ES6+)
+---
 
-🚀 How to Run Locally
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/travel-list.git
-
-
-Navigate to the project folder:
-
-cd travel-list
-
-
-Install dependencies:
-
-npm install
-
-
-Start the app:
-
-npm start
-
-
-Open your browser and go to http://localhost:3000
-
-📸 Preview
-
+## 📸 Preview
 <img width="1920" height="857" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/1a20f639-1b70-4840-8f5d-95e521da1c54" />
 
 
 
-🧠 Inspiration
-
+## 🧠 Inspiration
 This project was built to practice React state management, component-based design, and basic UI logic — all while creating something fun and practical for travelers.
